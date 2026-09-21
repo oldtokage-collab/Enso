@@ -272,4 +272,4 @@ Concept and specification by a user of C.P.S., who had started building somethin
 
 ## License
 
-MIT — use, modify, and share freely.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free to use, modify, and share for personal, non-commercial purposes, with attribution. Commercial use is not permitted. This firmware was built from an idea a community member shared rather than one of my own, so it didn't feel right to license it for commercial use.
